@@ -1,0 +1,6 @@
+{
+  "name": "Quotex Live Bookmarklet Studio",
+  "description": "Customizer and bookmarklet generator for Quotex demo to live visual styling, green text, live emoji, URL rewrite to /en/trade, leaderboard editor, and background watermark remover.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
